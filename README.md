@@ -5,6 +5,16 @@
 🎨 Artist  
 🇲🇾 Based in Malaysia  
 
+---
+
+## 🚀 Currently Learning
+- Full Stack Development
+- Responsive Web Design
+- JavaScript & APIs
+- Node.js
+- Phyton for AI
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,3 +34,9 @@
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+
+## 📬 Reach Out to Me
+
+[![Email](https://img.shields.io/badge/Email-yourname%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:weijin090@gmail.com)  
+[![GitHub](https://github.com/AsahiPieEthan)  
+[![LinkedIn](https://www.linkedin.com/in/wei-jin-pan-838517334/)
