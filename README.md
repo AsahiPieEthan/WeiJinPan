@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <a href="" target ="blank>Ethan</a>, you may refer me as Wei Jin
+# 👋 Hi, I'm <a href="https://portfolio-iota-flame-6a4zzzpgmd.vercel.app/" target ="blank>Ethan</a>, you may refer me as Wei Jin
 
 💻 IT Student & Web Developer  
 🏋️ Gym enthusiast  
