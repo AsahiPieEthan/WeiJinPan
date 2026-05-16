@@ -1,3 +1,5 @@
+<img width="604" height="47" alt="R" src="https://github.com/user-attachments/assets/afcf0fe3-3822-4d2c-9c2c-0859593f8e4a" />
+
 # 👋 Hi, I'm [Ethan](https://github.com/AsahiPieEthan), you may refer me as Wei Jin
 
 💻 IT Student & Web Developer  
