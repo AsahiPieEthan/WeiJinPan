@@ -1,5 +1,5 @@
 <img width="604" height="47" alt="R" src="https://github.com/user-attachments/assets/afcf0fe3-3822-4d2c-9c2c-0859593f8e4a" />
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Wei%20Jin%20Pan&fontSize=40)
+
 # 👋 Hi, I'm [Ethan](https://github.com/AsahiPieEthan), you may refer me as Wei Jin
 
 💻 IT Student & Web Developer  
@@ -41,8 +41,6 @@
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 
 
---- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsahiPieEthan&show_icons=true)
 ---
 ## 📬 Reach Out to Me
 
