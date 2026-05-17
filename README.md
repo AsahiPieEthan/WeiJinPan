@@ -1,6 +1,6 @@
 <img width="604" height="47" alt="R" src="https://github.com/user-attachments/assets/afcf0fe3-3822-4d2c-9c2c-0859593f8e4a" />
 
-# 👋 Hi, I'm [Ethan]([https://github.com/AsahiPieEthan](https://portfolio-iota-flame-6a4zzzpgmd.vercel.app/]), you may refer me as Wei Jin
+# 👋 Hi, I'm [Ethan]([https://portfolio-iota-flame-6a4zzzpgmd.vercel.app/]), you may refer me as Wei Jin
 
 💻 IT Student & Web Developer  
 🏋️ Gym enthusiast  
